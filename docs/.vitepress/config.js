@@ -12,7 +12,8 @@ export default {
         {
           text: '技術文章',
           items: [
-            { text: '第一篇文章', link: '/posts/第一篇文章' }
+            { text: '第一篇文章', link: '/posts/第一篇文章' },
+            { text: '第二篇文章', link: '/posts/第二篇文章' }
           ]
         }
       ]
